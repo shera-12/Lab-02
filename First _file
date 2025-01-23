@@ -1,3 +1,14 @@
 Console.WriteLine("My Name is: Ahsan Sheraz");
 Console.WriteLine("My Roll Number is: 089");
+
+
+
+ fsc_subjects
+
+
+Console.WriteLine("Fsc_Subjects: English, Maths, Urdu, Physics, Chemistry, Computer Science");
+
+
 Console.WriteLine("2nd Semester Subjects: 1: THQ, 2: OOP, 3: Stats, 4: Discrete Structure, 5: SCM, 6: SDLC");
+
+ main
